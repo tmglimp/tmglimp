@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmglimp
+👋 Hi, I’m @tmglimp
 
 <!---
 tmglimp/tmglimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
