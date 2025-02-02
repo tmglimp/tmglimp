@@ -33,7 +33,7 @@ Futures
 - Understanding Treasury Futures
 from: https://www.cmegroup.com/education/files/understanding-treasury-futures.pdf
 
-Risk Mgmt/Options
+Risk Mgmt
 - Risk and Return In High-Frequency Trading
 from: https://www.cftc.gov/sites/default/files/idc/groups/public/@economicanalysis/documents/file/oce_riskandreturn0414.pdf
 
