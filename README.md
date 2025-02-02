@@ -26,7 +26,7 @@ from: https://www.atlantafed.org/-/media/documents/research/publications/economi
 from: https://www.bis.org/publ/bppdf/bispap25.pdf
 
 Treasuries
-- Dealer capacity and USTreasury market functionality
+- Dealer capacity and US Treasury market functionality
 from: https://www.bis.org/publ/work1138.pdf
 
 Futures
