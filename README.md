@@ -7,7 +7,7 @@ from: https://iopscience.iop.org/article/10.1088/1742-6596/1808/1/012053/pdf
 Economics
 - Leverage and margin spirals in fixed income markets during the Covid-19 crisis
 from: https://www.bis.org/publ/bisbull02.pdf
-Re: Why we avoid leverage transaction merchant business w.r.t. prudential duties.
+Re: Why we eschew leverage transaction merchant business w.r.t. prudential duties.
 
 Statistics
 - Deconstructing the Yield Curve
