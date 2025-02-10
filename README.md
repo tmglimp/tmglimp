@@ -34,7 +34,7 @@ Futures
 from: https://www.cmegroup.com/education/files/understanding-treasury-futures.pdf
 
 Risk Mgmt
-- Risk and Return In High-Frequency Trading
-from: https://www.cftc.gov/sites/default/files/idc/groups/public/@economicanalysis/documents/file/oce_riskandreturn0414.pdf
+- Treasuries Hedging and Risk Management
+from: https://www.cmegroup.com/education/courses/introduction-to-treasuries/treasuries-hedging-and-risk-management.html
 
 
