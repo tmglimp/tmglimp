@@ -1,15 +1,18 @@
 This GitHub is informed by:
 
 Science
+
 -- Generalized Cross Validation (GCV) in Smoothing Spline Nonparametric Regression Models
 from: https://iopscience.iop.org/article/10.1088/1742-6596/1808/1/012053/pdf
 
 Economics
+
 -- Leverage and margin spirals in fixed income markets during the Covid-19 crisis
 from: https://www.bis.org/publ/bisbull02.pdf
 Re: Why we eschew leverage transaction merchant trade.
 
 Statistics
+
 -- Deconstructing the Yield Curve
 from: https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr884.pdf
 
@@ -26,14 +29,17 @@ from: https://www.atlantafed.org/-/media/documents/research/publications/economi
 from: https://www.bis.org/publ/bppdf/bispap25.pdf
 
 Treasuries
+
 -- Dealer capacity and US Treasury market functionality
 from: https://www.bis.org/publ/work1138.pdf
 
 Futures
+
 -- Understanding Treasury Futures
 from: https://www.cmegroup.com/education/files/understanding-treasury-futures.pdf
 
 Risk Mgmt
+
 -- Treasuries Hedging and Risk Management
 from: https://www.cmegroup.com/education/courses/introduction-to-treasuries/treasuries-hedging-and-risk-management.html
 
