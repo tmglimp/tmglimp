@@ -11,7 +11,7 @@ Re: Why we eschew leverage transaction merchant trade.
 
 Statistics
 - Deconstructing the Yield Curve
-from: https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr884.pdf?sc_lang=en
+from: https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr884.pdf
 
 - Fitting The Term Structure of Interest Rates With Smoothing Splines
 from: http://markfisher.net/~mefisher/papers/yc.pdf
